@@ -1,34 +1,8 @@
 {
-  "users": [
-    {
-      "email": "supriyosamanta1997@gmail.com",
-      "password": "123",
-      "confirmpassword": "123",
-      "id": 1
-    },
-    {
-      "email": "supriyosamanta1998@gmail.com",
-      "password": "7895",
-      "confirmpassword": "7895",
-      "id": 2
-    }
+  "cars": [
+   
   ],
-  "tasks": [
-    {
-      "tasks": "q",
-      "id": 1
-    },
-    {
-      "tasks": "e",
-      "id": 2
-    },
-    {
-      "tasks": "r",
-      "id": 3
-    },
-    {
-      "tasks": "t",
-      "id": 4
-    }
+  "wishlisted_cars": [
+    
   ]
 }
