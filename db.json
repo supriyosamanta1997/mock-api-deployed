@@ -1,8 +1,53 @@
 {
-  "cars": [
-   
-  ],
-  "wishlisted_cars": [
-    
+  "dogs": [
+    {
+      "name": "Labdador",
+      "age": "8",
+      "gender": "MALE",
+      "place": "kolata",
+      "id": 1
+    },
+    {
+      "name": "husky",
+      "age": "7",
+      "gender": "FEMALE",
+      "place": "Mumbai",
+      "id": 2
+    },
+    {
+      "name": "German sepeard",
+      "age": "5",
+      "gender": "MALE",
+      "place": "Mumbai",
+      "id": 3
+    },
+    {
+      "name": "voda",
+      "age": "2",
+      "gender": "MALE",
+      "place": "Delhi",
+      "id": 4
+    },
+    {
+      "name": "Golden Retriver",
+      "age": "5",
+      "gender": "MALE",
+      "place": "Delhi",
+      "id": 5
+    },
+    {
+      "name": "e",
+      "age": "5",
+      "gender": "FEMALE",
+      "place": "g",
+      "id": 6
+    },
+    {
+      "name": "q",
+      "age": "5",
+      "gender": "MALE",
+      "place": "g",
+      "id": 7
+    }
   ]
 }
