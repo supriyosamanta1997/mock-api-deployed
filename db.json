@@ -4,5 +4,17 @@
   ],
   "hotels": [
     
+      {
+        "id": 1,
+        "category": "Family",
+        "image_url": "https://static.theprint.in/wp-content/uploads/2022/10/Hotel.jpg?compress=true&quality=80&w=376&dpr=2.6",
+        "bed_type": "Double",
+        "no_of_persons": "3",
+        "capacity": "5",
+        "cost": "2500",
+        "booked": false
+      }
+    
+    
   ]
 }
